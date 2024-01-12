@@ -3,6 +3,8 @@
 
 <p>Password Generator App written in HTML, CSS, and JavaScript .</p>
 
+## Live Link --> https://safepass-harshgitdeep.netlify.app/
+
 ### Use of the Project:
 
 <p>This app helps to create strong random passwords that can be easily used during authentication.</p>
