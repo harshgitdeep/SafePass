@@ -29,7 +29,7 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 
 <h3> ScreenShots </h3> 
 
-<img width="750" alt="Password Generator" src="https://user-images.githubusercontent.com/63009472/125650386-c89c969a-85ac-4807-b5fe-ee299ffd2083.png">
+<img width="750" alt="Password Generator" src="Screenshot.png">
 
 <br>
 
