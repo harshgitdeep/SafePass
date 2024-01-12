@@ -1,10 +1,11 @@
-<h1>Password Generator App</h1>
+<h1>SafePass</h1>
+<h2>Password Generator App</h2>
 
 <p>Password Generator App written in HTML, CSS, and JavaScript .</p>
 
 ### Use of the Project:
 
-<p>This app helps to create strong random passwords which can be easily used during authentication.</p>
+<p>This app helps to create strong random passwords that can be easily used during authentication.</p>
 
 <h3>Used Technologies</h3>
 <ul>
