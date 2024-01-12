@@ -1,47 +1,36 @@
-# SafePass - Password Generator
+<h1>Password Generator App</h1>
 
-SafePass is a simple and secure password generator designed to help you create strong and unique passwords for your online accounts. With SafePass, you can customize the password length and choose whether to include uppercase letters, lowercase letters, numbers, and symbols.
+<p>Password Generator App written in HTML, CSS, and JavaScript .</p>
 
-## Features
+### Use of the Project:
 
-- **Password Length:** Choose the desired length of your password (between 4 and 20 characters).
-- **Uppercase Letters:** Include uppercase letters in your password for added complexity and security.
-- **Lowercase Letters:** Include lowercase letters to enhance the diversity of your generated password.
-- **Numbers:** Include numbers to make your password more robust and difficult to guess.
-- **Symbols:** Include symbols for an extra layer of security in your password.
+<p>This app helps to create strong random passwords which can be easily used during authentication.</p>
 
-## How to Use
+<h3>Used Technologies</h3>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+</ul>
 
-1. Open `index.html` in your web browser.
-2. Adjust the password settings according to your preferences.
-3. Click the "Generate Password" button to create a new password.
-4. Optionally, click the clipboard icon to copy the generated password to your clipboard.
+#### Steps to Use:
 
-## Technologies Used
+---
 
-- HTML
-- CSS
-- JavaScript
+- Download or clone the repository
 
-### External Libraries
+```
+git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+```
 
-- [Font Awesome](https://fontawesome.com/) - Icons for the clipboard button.
-- [Vanilla Tilt](https://micku7zu.github.io/vanilla-tilt.js/) - Adds a subtle tilt effect to the password generator card.
+- Go to the directory
+- Run the index.html file
+- Start Calculating!!
 
-## Getting Started
+<h3> ScreenShots </h3> 
 
-1. Clone the repository:
+<img width="750" alt="Password Generator" src="https://user-images.githubusercontent.com/63009472/125650386-c89c969a-85ac-4807-b5fe-ee299ffd2083.png">
 
-   ```bash
-   git clone https://github.com/your-username/safepass.git
-   ```
+<br>
 
-2. Open `index.html` in your preferred web browser.
 
-3. Customize the password settings and generate secure passwords.
-
-## Contributions
-
-Contributions are welcome! Feel free to open issues or pull requests to suggest improvements or report bugs.
-
-Stay secure with SafePass! 🛡️
